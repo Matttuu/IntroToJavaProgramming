@@ -7,4 +7,3 @@ public class AreaAndPerimeterOfARectangle {
         System.out.println("Perimeter = 2 x (height + width) = " + 2 * (4.5 + 7.9));
     }
 }
-K
