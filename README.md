@@ -3,4 +3,6 @@ ___
 
 It's still **WIP** so content will be updated occansionally.
 
-_Last update contained Listing 2.3 Computearea_
+___
+
+_Last update contained Listing 2.3 ComputeArea_
