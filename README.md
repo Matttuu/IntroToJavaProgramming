@@ -5,4 +5,5 @@ It's still **WIP** so content will be updated occansionally.
 
 ___
 
-_Last update contained Listing 2.3 ComputeArea_
+_Todo: Rework some of the already done exercises and add more detailed notes..
+And add more exercises._
